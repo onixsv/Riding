@@ -1,0 +1,5 @@
+name: Riding
+author: alvin0319
+main: Riding\RidingPlugin
+version: 1.0.0
+api: 4.0.0
